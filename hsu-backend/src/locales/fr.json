@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "sales": "Soldes",
+    "livingRoom": "Salon",
+    "bedroom": "Chambre",
+    "kitchen": "Cuisine",
+    "bathroom": "Salle de bain"
+  },
+  "auth": {
+    "signin": "Se connecter",
+    "signup": "S'inscrire",
+    "signout": "Se déconnecter"
+  },
+  "common": {
+    "searchPlaceholder": "Rechercher...",
+    "addToCart": "Ajouter au panier",
+    "footerText": "© 2025 Meubles SM Home. Tous droits réservés."
+  }
+}
